@@ -6,4 +6,4 @@ The primary [`bci-essentials-unity`](https://www.github.com/kirtonBCIlab/bci-ess
 
 ## Getting Started
 - Visit the [`bci-essentials-unity` Wiki](https://github.com/kirtonBCIlab/bci-essentials-unity/wiki) to get started on `bci-essentials-unity`.
-- Visit the [API documentation website]() – **NOT WORKING YET**
+- Visit the [API documentation website](https://kirtonbcilab.github.io/APIdocs-for-bci-essentials-python) – **In progress**
