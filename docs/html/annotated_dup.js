@@ -49,31 +49,6 @@ var annotated_dup =
       [ "StimulusObjects", "d1/d20/namespace_b_c_i_essentials_1_1_stimulus_objects.html", [
         [ "SPO", "d7/d48/class_b_c_i_essentials_1_1_stimulus_objects_1_1_s_p_o.html", "d7/d48/class_b_c_i_essentials_1_1_stimulus_objects_1_1_s_p_o" ]
       ] ],
-      [ "Tests", "da/df9/namespace_b_c_i_essentials_1_1_tests.html", [
-        [ "LSLService", "d9/df9/namespace_b_c_i_essentials_1_1_tests_1_1_l_s_l_service.html", [
-          [ "LSLMarkerReceiverTests", "d3/da6/class_b_c_i_essentials_1_1_tests_1_1_l_s_l_service_1_1_l_s_l_marker_receiver_tests.html", null ],
-          [ "LSLServiceProviderTests", "d7/dfc/class_b_c_i_essentials_1_1_tests_1_1_l_s_l_service_1_1_l_s_l_service_provider_tests.html", "d7/dfc/class_b_c_i_essentials_1_1_tests_1_1_l_s_l_service_1_1_l_s_l_service_provider_tests" ]
-        ] ],
-        [ "TestResources", "d1/d10/namespace_b_c_i_essentials_1_1_tests_1_1_test_resources.html", [
-          [ "CoroutineRunner", "d3/d7b/class_b_c_i_essentials_1_1_tests_1_1_test_resources_1_1_coroutine_runner.html", null ],
-          [ "ResourceLibraryAsset", "d9/daf/class_b_c_i_essentials_1_1_tests_1_1_test_resources_1_1_resource_library_asset.html", null ]
-        ] ],
-        [ "Utilities", "d4/d29/namespace_b_c_i_essentials_1_1_tests_1_1_utilities.html", [
-          [ "InClassName", "df/da5/class_b_c_i_essentials_1_1_tests_1_1_utilities_1_1_in_class_name.html", null ],
-          [ "PlayModeTestRunnerBase", "d3/dc3/class_b_c_i_essentials_1_1_tests_1_1_utilities_1_1_play_mode_test_runner_base.html", null ]
-        ] ],
-        [ "BCIControllerBehaviorTests", "df/dd8/class_b_c_i_essentials_1_1_tests_1_1_b_c_i_controller_behavior_tests.html", null ],
-        [ "BCIControllerBehaviorTests_SelectObjectTests", "d5/d34/class_b_c_i_essentials_1_1_tests_1_1_b_c_i_controller_behavior_tests___select_object_tests.html", null ],
-        [ "BCIControllerBehaviorTests_StimulusRunTests", "d3/d79/class_b_c_i_essentials_1_1_tests_1_1_b_c_i_controller_behavior_tests___stimulus_run_tests.html", null ],
-        [ "BCIControllerBehaviorTests_TrainingTests", "d0/da6/class_b_c_i_essentials_1_1_tests_1_1_b_c_i_controller_behavior_tests___training_tests.html", null ],
-        [ "BCIControllerTests", "da/d9c/class_b_c_i_essentials_1_1_tests_1_1_b_c_i_controller_tests.html", null ],
-        [ "Controller_WhenSendReceiveMarkers", "df/dd7/class_b_c_i_essentials_1_1_tests_1_1_controller___when_send_receive_markers.html", null ],
-        [ "ControllerTests", "dd/dc9/class_b_c_i_essentials_1_1_tests_1_1_controller_tests.html", null ],
-        [ "ControllerTests_WhenDoTraining", "dc/d43/class_b_c_i_essentials_1_1_tests_1_1_controller_tests___when_do_training.html", null ],
-        [ "EmptyBCIControllerBehavior", "dc/de8/class_b_c_i_essentials_1_1_tests_1_1_empty_b_c_i_controller_behavior.html", null ],
-        [ "LSLResponseStreamTests", "d8/da6/class_b_c_i_essentials_1_1_tests_1_1_l_s_l_response_stream_tests.html", null ],
-        [ "MockSPO", "d6/d99/class_b_c_i_essentials_1_1_tests_1_1_mock_s_p_o.html", null ]
-      ] ],
       [ "Utilities", "da/d31/namespace_b_c_i_essentials_1_1_utilities.html", [
         [ "Editor", "dd/de5/namespace_b_c_i_essentials_1_1_utilities_1_1_editor.html", [
           [ "InspectorReadOnlyDrawer", "dc/d93/class_b_c_i_essentials_1_1_utilities_1_1_editor_1_1_inspector_read_only_drawer.html", "dc/d93/class_b_c_i_essentials_1_1_utilities_1_1_editor_1_1_inspector_read_only_drawer" ]
