@@ -21,6 +21,10 @@ jobs:
           working-directory: '.'
           doxyfile-path: './docs/doxygen/Doxyfile-awesome'
 
+      - name: Remove Packages folder
+        run: |
+          rm -rf ./Packages
+
       - name: Commit and Push Changes
         run: |
           git config --local user.email "n44412824+anup2ladder@users.noreply.github.com"
