@@ -16,29 +16,12 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
-      # - name: Initialize conda environment
-      #   uses: conda-incubator/setup-miniconda@v2
-      #   with:
-      #     environment-file: environment.yml
-      #     activate-environment: bci
-
-      # - name: Install dependencies
-      #   shell: bash -el {0}
-      #   run: |
-      #     conda activate bci
-      #     conda info
-      #     pip install .
-      #     pip install pdoc
-
       - name: Generate API documentation
-      uses: mattnotmitt/doxygen-action@v1.9.5
-      with:
-        working-directory: '.'
-        doxyfile-path: './docs/doxygen/Doxyfile-awesome'
+        uses: mattnotmitt/doxygen-action@v1.9.5
+        with:
+          working-directory: '.'
+          doxyfile-path: './docs/doxygen/Doxyfile-awesome'
 
-      # - name: Remove Packages folder
-      #   run: |
-      #     rm -rf ./Packages
 
       - name: Commit and Push Changes
         run: |
@@ -57,3 +40,21 @@ jobs:
       #     git add -u ./Packages
       #     git commit -m "Auto-generated API docs and removed unnecessary files"
       #     git push origin main
+
+      # - name: Initialize conda environment
+      #   uses: conda-incubator/setup-miniconda@v2
+      #   with:
+      #     environment-file: environment.yml
+      #     activate-environment: bci
+
+      # - name: Install dependencies
+      #   shell: bash -el {0}
+      #   run: |
+      #     conda activate bci
+      #     conda info
+      #     pip install .
+      #     pip install pdoc
+
+      # - name: Remove Packages folder
+      #   run: |
+      #     rm -rf ./Packages
