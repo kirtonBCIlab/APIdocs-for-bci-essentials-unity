@@ -7,7 +7,9 @@ var annotated_dup =
         [ "MIControllerBehavior", "d5/d8f/classBCIEssentials_1_1ControllerBehaviors_1_1MIControllerBehavior.html", "d5/d8f/classBCIEssentials_1_1ControllerBehaviors_1_1MIControllerBehavior" ],
         [ "P300ControllerBehavior", "d0/d93/classBCIEssentials_1_1ControllerBehaviors_1_1P300ControllerBehavior.html", "d0/d93/classBCIEssentials_1_1ControllerBehaviors_1_1P300ControllerBehavior" ],
         [ "SSVEPControllerBehavior", "d5/d4d/classBCIEssentials_1_1ControllerBehaviors_1_1SSVEPControllerBehavior.html", "d5/d4d/classBCIEssentials_1_1ControllerBehaviors_1_1SSVEPControllerBehavior" ],
-        [ "SwitchControllerBehavior", "d2/d21/classBCIEssentials_1_1ControllerBehaviors_1_1SwitchControllerBehavior.html", "d2/d21/classBCIEssentials_1_1ControllerBehaviors_1_1SwitchControllerBehavior" ]
+        [ "StimulusPresentationControllerBehavior", "de/d1e/classBCIEssentials_1_1ControllerBehaviors_1_1StimulusPresentationControllerBehavior.html", "de/d1e/classBCIEssentials_1_1ControllerBehaviors_1_1StimulusPresentationControllerBehavior" ],
+        [ "SwitchControllerBehavior", "d2/d21/classBCIEssentials_1_1ControllerBehaviors_1_1SwitchControllerBehavior.html", "d2/d21/classBCIEssentials_1_1ControllerBehaviors_1_1SwitchControllerBehavior" ],
+        [ "TVEPControllerBehavior", "db/d63/classBCIEssentials_1_1ControllerBehaviors_1_1TVEPControllerBehavior.html", "db/d63/classBCIEssentials_1_1ControllerBehaviors_1_1TVEPControllerBehavior" ]
       ] ],
       [ "Controllers", "da/d7e/namespaceBCIEssentials_1_1Controllers.html", [
         [ "Editor", "d1/d93/namespaceBCIEssentials_1_1Controllers_1_1Editor.html", [
@@ -16,7 +18,8 @@ var annotated_dup =
         [ "BCIController", "dc/d91/classBCIEssentials_1_1Controllers_1_1BCIController.html", null ],
         [ "MIController", "dc/d94/classBCIEssentials_1_1Controllers_1_1MIController.html", null ],
         [ "P300Controller", "da/d00/classBCIEssentials_1_1Controllers_1_1P300Controller.html", null ],
-        [ "SSVEPController", "d0/d79/classBCIEssentials_1_1Controllers_1_1SSVEPController.html", null ]
+        [ "SSVEPController", "d0/d79/classBCIEssentials_1_1Controllers_1_1SSVEPController.html", null ],
+        [ "TVEPController", "d0/db9/classBCIEssentials_1_1Controllers_1_1TVEPController.html", null ]
       ] ],
       [ "LSL", "dc/d0d/namespaceBCIEssentials_1_1LSL.html", [
         [ "Samples", "de/def/namespaceBCIEssentials_1_1LSL_1_1Samples.html", [
@@ -41,10 +44,17 @@ var annotated_dup =
         [ "LSLServiceProvider", "d1/d41/classBCIEssentials_1_1LSLFramework_1_1LSLServiceProvider.html", "d1/d41/classBCIEssentials_1_1LSLFramework_1_1LSLServiceProvider" ]
       ] ],
       [ "StimulusEffects", "dc/d90/namespaceBCIEssentials_1_1StimulusEffects.html", [
+        [ "CheckerReversal", "db/da9/classBCIEssentials_1_1StimulusEffects_1_1CheckerReversal.html", "db/da9/classBCIEssentials_1_1StimulusEffects_1_1CheckerReversal" ],
         [ "ColorFlashEffect", "db/d44/classBCIEssentials_1_1StimulusEffects_1_1ColorFlashEffect.html", "db/d44/classBCIEssentials_1_1StimulusEffects_1_1ColorFlashEffect" ],
+        [ "ColorFlashEffect2", "d7/d2e/classBCIEssentials_1_1StimulusEffects_1_1ColorFlashEffect2.html", "d7/d2e/classBCIEssentials_1_1StimulusEffects_1_1ColorFlashEffect2" ],
         [ "SelfDestroyEffect", "d8/de1/classBCIEssentials_1_1StimulusEffects_1_1SelfDestroyEffect.html", "d8/de1/classBCIEssentials_1_1StimulusEffects_1_1SelfDestroyEffect" ],
+        [ "SquareGrateReversal", "d1/db7/classBCIEssentials_1_1StimulusEffects_1_1SquareGrateReversal.html", "d1/db7/classBCIEssentials_1_1StimulusEffects_1_1SquareGrateReversal" ],
+        [ "StaticFlash", "d2/d8e/classBCIEssentials_1_1StimulusEffects_1_1StaticFlash.html", "d2/d8e/classBCIEssentials_1_1StimulusEffects_1_1StaticFlash" ],
         [ "StimulusEffect", "db/dae/classBCIEssentials_1_1StimulusEffects_1_1StimulusEffect.html", "db/dae/classBCIEssentials_1_1StimulusEffects_1_1StimulusEffect" ],
-        [ "TransformScaleEffect", "d2/d76/classBCIEssentials_1_1StimulusEffects_1_1TransformScaleEffect.html", "d2/d76/classBCIEssentials_1_1StimulusEffects_1_1TransformScaleEffect" ]
+        [ "TransformScaleEffect", "d2/d76/classBCIEssentials_1_1StimulusEffects_1_1TransformScaleEffect.html", "d2/d76/classBCIEssentials_1_1StimulusEffects_1_1TransformScaleEffect" ],
+        [ "VoronoiFlash", "d3/de5/classBCIEssentials_1_1StimulusEffects_1_1VoronoiFlash.html", "d3/de5/classBCIEssentials_1_1StimulusEffects_1_1VoronoiFlash" ],
+        [ "WoodFlash", "de/db0/classBCIEssentials_1_1StimulusEffects_1_1WoodFlash.html", "de/db0/classBCIEssentials_1_1StimulusEffects_1_1WoodFlash" ],
+        [ "WormFlash", "df/d8d/classBCIEssentials_1_1StimulusEffects_1_1WormFlash.html", "df/d8d/classBCIEssentials_1_1StimulusEffects_1_1WormFlash" ]
       ] ],
       [ "StimulusObjects", "d9/d44/namespaceBCIEssentials_1_1StimulusObjects.html", [
         [ "SPO", "d4/dd2/classBCIEssentials_1_1StimulusObjects_1_1SPO.html", "d4/dd2/classBCIEssentials_1_1StimulusObjects_1_1SPO" ]
@@ -53,6 +63,7 @@ var annotated_dup =
         [ "Editor", "d2/d16/namespaceBCIEssentials_1_1Utilities_1_1Editor.html", [
           [ "InspectorReadOnlyDrawer", "d4/d53/classBCIEssentials_1_1Utilities_1_1Editor_1_1InspectorReadOnlyDrawer.html", "d4/d53/classBCIEssentials_1_1Utilities_1_1Editor_1_1InspectorReadOnlyDrawer" ]
         ] ],
+        [ "ColorContrast", "d2/d54/classBCIEssentials_1_1Utilities_1_1ColorContrast.html", null ],
         [ "DontDestroy", "d8/df8/classBCIEssentials_1_1Utilities_1_1DontDestroy.html", null ],
         [ "InspectorReadOnlyAttribute", "dd/de4/classBCIEssentials_1_1Utilities_1_1InspectorReadOnlyAttribute.html", null ],
         [ "MatrixSetup", "d0/d59/classBCIEssentials_1_1Utilities_1_1MatrixSetup.html", null ],
@@ -60,6 +71,7 @@ var annotated_dup =
       ] ]
     ] ],
     [ "Controller", "d9/d85/classController.html", null ],
+    [ "DissolveEffectKeyPress", "d5/de0/classDissolveEffectKeyPress.html", null ],
     [ "MIController", "da/d0b/classMIController.html", null ],
     [ "P300Controller", "de/d6b/classP300Controller.html", null ],
     [ "SSVEPController", "d1/d27/classSSVEPController.html", null ]

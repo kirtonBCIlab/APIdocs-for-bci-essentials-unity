@@ -32,7 +32,11 @@ var hierarchy =
         [ "BCIEssentials.ControllerBehaviors.SSVEPControllerBehavior", "d5/d4d/classBCIEssentials_1_1ControllerBehaviors_1_1SSVEPControllerBehavior.html", [
           [ "BCIEssentials.Controllers.SSVEPController", "d0/d79/classBCIEssentials_1_1Controllers_1_1SSVEPController.html", null ]
         ] ],
-        [ "BCIEssentials.ControllerBehaviors.SwitchControllerBehavior", "d2/d21/classBCIEssentials_1_1ControllerBehaviors_1_1SwitchControllerBehavior.html", null ]
+        [ "BCIEssentials.ControllerBehaviors.StimulusPresentationControllerBehavior", "de/d1e/classBCIEssentials_1_1ControllerBehaviors_1_1StimulusPresentationControllerBehavior.html", null ],
+        [ "BCIEssentials.ControllerBehaviors.SwitchControllerBehavior", "d2/d21/classBCIEssentials_1_1ControllerBehaviors_1_1SwitchControllerBehavior.html", null ],
+        [ "BCIEssentials.ControllerBehaviors.TVEPControllerBehavior", "db/d63/classBCIEssentials_1_1ControllerBehaviors_1_1TVEPControllerBehavior.html", [
+          [ "BCIEssentials.Controllers.TVEPController", "d0/db9/classBCIEssentials_1_1Controllers_1_1TVEPController.html", null ]
+        ] ]
       ] ],
       [ "BCIEssentials.Controllers.BCIController", "dc/d91/classBCIEssentials_1_1Controllers_1_1BCIController.html", null ],
       [ "BCIEssentials.LSL.Samples.MarkerReceiverExample.BasicMarkerSender", "de/d7e/classBCIEssentials_1_1LSL_1_1Samples_1_1MarkerReceiverExample_1_1BasicMarkerSender.html", null ],
@@ -43,11 +47,19 @@ var hierarchy =
       [ "BCIEssentials.LSLFramework.LSLResponseStream", "d3/d19/classBCIEssentials_1_1LSLFramework_1_1LSLResponseStream.html", null ],
       [ "BCIEssentials.LSLFramework.LSLServiceProvider", "d1/d41/classBCIEssentials_1_1LSLFramework_1_1LSLServiceProvider.html", null ],
       [ "BCIEssentials.StimulusEffects.StimulusEffect", "db/dae/classBCIEssentials_1_1StimulusEffects_1_1StimulusEffect.html", [
+        [ "BCIEssentials.StimulusEffects.CheckerReversal", "db/da9/classBCIEssentials_1_1StimulusEffects_1_1CheckerReversal.html", null ],
         [ "BCIEssentials.StimulusEffects.ColorFlashEffect", "db/d44/classBCIEssentials_1_1StimulusEffects_1_1ColorFlashEffect.html", null ],
+        [ "BCIEssentials.StimulusEffects.ColorFlashEffect2", "d7/d2e/classBCIEssentials_1_1StimulusEffects_1_1ColorFlashEffect2.html", null ],
         [ "BCIEssentials.StimulusEffects.SelfDestroyEffect", "d8/de1/classBCIEssentials_1_1StimulusEffects_1_1SelfDestroyEffect.html", null ],
-        [ "BCIEssentials.StimulusEffects.TransformScaleEffect", "d2/d76/classBCIEssentials_1_1StimulusEffects_1_1TransformScaleEffect.html", null ]
+        [ "BCIEssentials.StimulusEffects.SquareGrateReversal", "d1/db7/classBCIEssentials_1_1StimulusEffects_1_1SquareGrateReversal.html", null ],
+        [ "BCIEssentials.StimulusEffects.StaticFlash", "d2/d8e/classBCIEssentials_1_1StimulusEffects_1_1StaticFlash.html", null ],
+        [ "BCIEssentials.StimulusEffects.TransformScaleEffect", "d2/d76/classBCIEssentials_1_1StimulusEffects_1_1TransformScaleEffect.html", null ],
+        [ "BCIEssentials.StimulusEffects.VoronoiFlash", "d3/de5/classBCIEssentials_1_1StimulusEffects_1_1VoronoiFlash.html", null ],
+        [ "BCIEssentials.StimulusEffects.WoodFlash", "de/db0/classBCIEssentials_1_1StimulusEffects_1_1WoodFlash.html", null ],
+        [ "BCIEssentials.StimulusEffects.WormFlash", "df/d8d/classBCIEssentials_1_1StimulusEffects_1_1WormFlash.html", null ]
       ] ],
       [ "BCIEssentials.StimulusObjects.SPO", "d4/dd2/classBCIEssentials_1_1StimulusObjects_1_1SPO.html", null ],
+      [ "BCIEssentials.Utilities.ColorContrast", "d2/d54/classBCIEssentials_1_1Utilities_1_1ColorContrast.html", null ],
       [ "BCIEssentials.Utilities.DontDestroy", "d8/df8/classBCIEssentials_1_1Utilities_1_1DontDestroy.html", null ],
       [ "BCIEssentials.Utilities.MatrixSetup", "d0/d59/classBCIEssentials_1_1Utilities_1_1MatrixSetup.html", null ],
       [ "BCIEssentials.Utilities.RefreshRateMonitor", "dc/de1/classBCIEssentials_1_1Utilities_1_1RefreshRateMonitor.html", null ],
@@ -55,7 +67,8 @@ var hierarchy =
         [ "MIController", "da/d0b/classMIController.html", null ],
         [ "P300Controller", "de/d6b/classP300Controller.html", null ],
         [ "SSVEPController", "d1/d27/classSSVEPController.html", null ]
-      ] ]
+      ] ],
+      [ "DissolveEffectKeyPress", "d5/de0/classDissolveEffectKeyPress.html", null ]
     ] ],
     [ "PropertyAttribute", null, [
       [ "BCIEssentials.Utilities.InspectorReadOnlyAttribute", "dd/de4/classBCIEssentials_1_1Utilities_1_1InspectorReadOnlyAttribute.html", null ]

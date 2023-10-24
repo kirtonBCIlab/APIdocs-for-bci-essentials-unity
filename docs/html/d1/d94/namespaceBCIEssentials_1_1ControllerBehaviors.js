@@ -5,5 +5,7 @@ var namespaceBCIEssentials_1_1ControllerBehaviors =
     [ "MIControllerBehavior", "d5/d8f/classBCIEssentials_1_1ControllerBehaviors_1_1MIControllerBehavior.html", "d5/d8f/classBCIEssentials_1_1ControllerBehaviors_1_1MIControllerBehavior" ],
     [ "P300ControllerBehavior", "d0/d93/classBCIEssentials_1_1ControllerBehaviors_1_1P300ControllerBehavior.html", "d0/d93/classBCIEssentials_1_1ControllerBehaviors_1_1P300ControllerBehavior" ],
     [ "SSVEPControllerBehavior", "d5/d4d/classBCIEssentials_1_1ControllerBehaviors_1_1SSVEPControllerBehavior.html", "d5/d4d/classBCIEssentials_1_1ControllerBehaviors_1_1SSVEPControllerBehavior" ],
-    [ "SwitchControllerBehavior", "d2/d21/classBCIEssentials_1_1ControllerBehaviors_1_1SwitchControllerBehavior.html", "d2/d21/classBCIEssentials_1_1ControllerBehaviors_1_1SwitchControllerBehavior" ]
+    [ "StimulusPresentationControllerBehavior", "de/d1e/classBCIEssentials_1_1ControllerBehaviors_1_1StimulusPresentationControllerBehavior.html", "de/d1e/classBCIEssentials_1_1ControllerBehaviors_1_1StimulusPresentationControllerBehavior" ],
+    [ "SwitchControllerBehavior", "d2/d21/classBCIEssentials_1_1ControllerBehaviors_1_1SwitchControllerBehavior.html", "d2/d21/classBCIEssentials_1_1ControllerBehaviors_1_1SwitchControllerBehavior" ],
+    [ "TVEPControllerBehavior", "db/d63/classBCIEssentials_1_1ControllerBehaviors_1_1TVEPControllerBehavior.html", "db/d63/classBCIEssentials_1_1ControllerBehaviors_1_1TVEPControllerBehavior" ]
 ];

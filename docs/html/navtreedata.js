@@ -49,7 +49,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html"
+"annotated.html",
+"db/dae/classBCIEssentials_1_1StimulusEffects_1_1StimulusEffect.html#adc6de3517ad5266ef4bc645978db6292"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
