@@ -1,5 +1,7 @@
 var NAVTREEINDEX1 =
 {
+"db/da9/classBCIEssentials_1_1StimulusEffects_1_1CheckerReversal.html#a7158f216bdd441d69a1ca92b76012cca":[2,0,0,4,0,0],
+"db/da9/classBCIEssentials_1_1StimulusEffects_1_1CheckerReversal.html#a848b191f6847dcab5ddda9aed6963933":[1,0,0,4,0,1],
 "db/da9/classBCIEssentials_1_1StimulusEffects_1_1CheckerReversal.html#a848b191f6847dcab5ddda9aed6963933":[2,0,0,4,0,1],
 "db/dae/classBCIEssentials_1_1StimulusEffects_1_1StimulusEffect.html":[1,0,0,4,6],
 "db/dae/classBCIEssentials_1_1StimulusEffects_1_1StimulusEffect.html":[2,0,0,4,6],
