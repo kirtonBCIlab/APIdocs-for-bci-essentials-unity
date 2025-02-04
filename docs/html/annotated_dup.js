@@ -65,6 +65,7 @@ var annotated_dup =
         ] ],
         [ "ColorContrast", "d2/d54/classBCIEssentials_1_1Utilities_1_1ColorContrast.html", null ],
         [ "DontDestroy", "d8/df8/classBCIEssentials_1_1Utilities_1_1DontDestroy.html", null ],
+        [ "GraphUtilities", "dd/d16/classBCIEssentials_1_1Utilities_1_1GraphUtilities.html", null ],
         [ "InspectorReadOnlyAttribute", "dd/de4/classBCIEssentials_1_1Utilities_1_1InspectorReadOnlyAttribute.html", null ],
         [ "MatrixSetup", "d0/d59/classBCIEssentials_1_1Utilities_1_1MatrixSetup.html", null ],
         [ "RefreshRateMonitor", "dc/de1/classBCIEssentials_1_1Utilities_1_1RefreshRateMonitor.html", null ]

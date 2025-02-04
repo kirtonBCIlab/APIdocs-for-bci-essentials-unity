@@ -3,6 +3,7 @@ var hierarchy =
     [ "UnityEditor.Editor", null, [
       [ "BCIEssentials.Controllers.Editor.BCIControllerDebugInspector", "d1/d53/classBCIEssentials_1_1Controllers_1_1Editor_1_1BCIControllerDebugInspector.html", null ]
     ] ],
+    [ "BCIEssentials.Utilities.GraphUtilities", "dd/d16/classBCIEssentials_1_1Utilities_1_1GraphUtilities.html", null ],
     [ "BCIEssentials.ControllerBehaviors.IBciBehavior", "dc/d68/interfaceBCIEssentials_1_1ControllerBehaviors_1_1IBciBehavior.html", null ],
     [ "BCIEssentials.LSLFramework.ILSLMarkerReceiver", "d0/d39/interfaceBCIEssentials_1_1LSLFramework_1_1ILSLMarkerReceiver.html", [
       [ "BCIEssentials.LSLFramework.LSLMarkerReceiver", "d0/d7b/classBCIEssentials_1_1LSLFramework_1_1LSLMarkerReceiver.html", null ]

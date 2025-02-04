@@ -1,9 +1,11 @@
 var searchData=
 [
-  ['lslmarkerreceiver_0',['LSLMarkerReceiver',['../d0/d7b/classBCIEssentials_1_1LSLFramework_1_1LSLMarkerReceiver.html',1,'BCIEssentials::LSLFramework']]],
-  ['lslmarkerreceiversettings_1',['LSLMarkerReceiverSettings',['../dd/d48/classBCIEssentials_1_1LSLFramework_1_1LSLMarkerReceiverSettings.html',1,'BCIEssentials::LSLFramework']]],
-  ['lslmarkerresponse_2',['LSLMarkerResponse',['../d8/d70/classBCIEssentials_1_1LSLFramework_1_1LSLMarkerResponse.html',1,'BCIEssentials::LSLFramework']]],
-  ['lslmarkerstream_3',['LSLMarkerStream',['../dc/ddb/classBCIEssentials_1_1LSLFramework_1_1LSLMarkerStream.html',1,'BCIEssentials::LSLFramework']]],
-  ['lslresponsestream_4',['LSLResponseStream',['../d3/d19/classBCIEssentials_1_1LSLFramework_1_1LSLResponseStream.html',1,'BCIEssentials::LSLFramework']]],
-  ['lslserviceprovider_5',['LSLServiceProvider',['../d1/d41/classBCIEssentials_1_1LSLFramework_1_1LSLServiceProvider.html',1,'BCIEssentials::LSLFramework']]]
+  ['ibcibehavior_0',['IBciBehavior',['../dc/d68/interfaceBCIEssentials_1_1ControllerBehaviors_1_1IBciBehavior.html',1,'BCIEssentials::ControllerBehaviors']]],
+  ['ilslmarkerreceiver_1',['ILSLMarkerReceiver',['../d0/d39/interfaceBCIEssentials_1_1LSLFramework_1_1ILSLMarkerReceiver.html',1,'BCIEssentials::LSLFramework']]],
+  ['ilslmarkersubscriber_2',['ILSLMarkerSubscriber',['../d1/d9f/interfaceBCIEssentials_1_1LSLFramework_1_1ILSLMarkerSubscriber.html',1,'BCIEssentials::LSLFramework']]],
+  ['ilslservice_3',['ILSLService',['../d3/d2a/interfaceBCIEssentials_1_1LSLFramework_1_1ILSLService.html',1,'BCIEssentials::LSLFramework']]],
+  ['imarkerstream_4',['IMarkerStream',['../d2/d98/interfaceBCIEssentials_1_1LSLFramework_1_1IMarkerStream.html',1,'BCIEssentials::LSLFramework']]],
+  ['inspectorreadonlyattribute_5',['InspectorReadOnlyAttribute',['../dd/de4/classBCIEssentials_1_1Utilities_1_1InspectorReadOnlyAttribute.html',1,'BCIEssentials::Utilities']]],
+  ['inspectorreadonlydrawer_6',['InspectorReadOnlyDrawer',['../d4/d53/classBCIEssentials_1_1Utilities_1_1Editor_1_1InspectorReadOnlyDrawer.html',1,'BCIEssentials::Utilities::Editor']]],
+  ['iresponsestream_7',['IResponseStream',['../dd/d14/interfaceBCIEssentials_1_1LSLFramework_1_1IResponseStream.html',1,'BCIEssentials::LSLFramework']]]
 ];

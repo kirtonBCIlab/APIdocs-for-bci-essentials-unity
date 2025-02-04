@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['p300controller_0',['P300Controller',['../da/d00/classBCIEssentials_1_1Controllers_1_1P300Controller.html',1,'BCIEssentials.Controllers.P300Controller'],['../de/d6b/classP300Controller.html',1,'P300Controller']]],
-  ['p300controllerbehavior_1',['P300ControllerBehavior',['../d0/d93/classBCIEssentials_1_1ControllerBehaviors_1_1P300ControllerBehavior.html',1,'BCIEssentials::ControllerBehaviors']]]
+  ['matrixsetup_0',['MatrixSetup',['../d0/d59/classBCIEssentials_1_1Utilities_1_1MatrixSetup.html',1,'BCIEssentials::Utilities']]],
+  ['micontroller_1',['MIController',['../dc/d94/classBCIEssentials_1_1Controllers_1_1MIController.html',1,'BCIEssentials.Controllers.MIController'],['../da/d0b/classMIController.html',1,'MIController']]],
+  ['micontrollerbehavior_2',['MIControllerBehavior',['../d5/d8f/classBCIEssentials_1_1ControllerBehaviors_1_1MIControllerBehavior.html',1,'BCIEssentials::ControllerBehaviors']]]
 ];

@@ -263,6 +263,9 @@ virtual IEnumerator&#160;</td><td class="memItemRight" valign="bottom"><b>WhileD
 <tr class="memitem:ae68cf8bda9753dcabd6487738cdf8b5b"><td class="memItemLeft" align="right" valign="top"><a id="ae68cf8bda9753dcabd6487738cdf8b5b" name="ae68cf8bda9753dcabd6487738cdf8b5b"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>StopStartCoroutine</b> (ref Coroutine reference, IEnumerator routine)</td></tr>
 <tr class="separator:ae68cf8bda9753dcabd6487738cdf8b5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a206f97038474dd70b65d9d90d04f8b63"><td class="memItemLeft" align="right" valign="top"><a id="a206f97038474dd70b65d9d90d04f8b63" name="a206f97038474dd70b65d9d90d04f8b63"></a>
+Coroutine&#160;</td><td class="memItemRight" valign="bottom"><b>Stop_Coroutines_Then_Start_New_Coroutine</b> (ref Coroutine reference_coroutine, IEnumerator routine)</td></tr>
+<tr class="separator:a206f97038474dd70b65d9d90d04f8b63"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a42bc72008fa69e9bf5cca1f0cfb0fb40"><td class="memItemLeft" align="right" valign="top"><a id="a42bc72008fa69e9bf5cca1f0cfb0fb40" name="a42bc72008fa69e9bf5cca1f0cfb0fb40"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>StopCoroutineReference</b> (ref Coroutine reference)</td></tr>
 <tr class="separator:a42bc72008fa69e9bf5cca1f0cfb0fb40"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -305,6 +308,9 @@ Coroutine&#160;</td><td class="memItemRight" valign="bottom"><b>_waitToSelect</b
 <tr class="memitem:a73710bf8ff550d976ce17893521d23c6"><td class="memItemLeft" align="right" valign="top"><a id="a73710bf8ff550d976ce17893521d23c6" name="a73710bf8ff550d976ce17893521d23c6"></a>
 Coroutine&#160;</td><td class="memItemRight" valign="bottom"><b>_training</b></td></tr>
 <tr class="separator:a73710bf8ff550d976ce17893521d23c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3a37c01e996508799eb7696278d1e64"><td class="memItemLeft" align="right" valign="top"><a id="ae3a37c01e996508799eb7696278d1e64" name="ae3a37c01e996508799eb7696278d1e64"></a>
+Dictionary&lt; int, <a class="el" href="../../d4/dd2/classBCIEssentials_1_1StimulusObjects_1_1SPO.html">SPO</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>_objectIDtoSPODict</b> = new()</td></tr>
+<tr class="separator:ae3a37c01e996508799eb7696278d1e64"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
 Properties</h2></td></tr>
@@ -473,7 +479,7 @@ BCITrainingType&#160;</td><td class="memItemRight" valign="bottom"><b>CurrentTra
   </dd>
 </dl>
 
-<p>Reimplemented in <a class="el" href="../../d5/d8f/classBCIEssentials_1_1ControllerBehaviors_1_1MIControllerBehavior.html#a558db8fe61d582aa27c35626142de8ac">BCIEssentials.ControllerBehaviors.MIControllerBehavior</a>, <a class="el" href="../../d5/d4d/classBCIEssentials_1_1ControllerBehaviors_1_1SSVEPControllerBehavior.html#ab1dbe4e9b03ff09146630a2c106187a3">BCIEssentials.ControllerBehaviors.SSVEPControllerBehavior</a>, <a class="el" href="../../d2/d21/classBCIEssentials_1_1ControllerBehaviors_1_1SwitchControllerBehavior.html#ad75f51e67627adc23a1865123025251a">BCIEssentials.ControllerBehaviors.SwitchControllerBehavior</a>, <a class="el" href="../../db/d63/classBCIEssentials_1_1ControllerBehaviors_1_1TVEPControllerBehavior.html#a85dffb09823f95c19a1b56ff79fdbce2">BCIEssentials.ControllerBehaviors.TVEPControllerBehavior</a>, and <a class="el" href="../../de/d1e/classBCIEssentials_1_1ControllerBehaviors_1_1StimulusPresentationControllerBehavior.html#a92f92073bc4f13ca5b0ea81198a9ad90">BCIEssentials.ControllerBehaviors.StimulusPresentationControllerBehavior</a>.</p>
+<p>Reimplemented in <a class="el" href="../../d0/d93/classBCIEssentials_1_1ControllerBehaviors_1_1P300ControllerBehavior.html#a3533c2ab2919621731f0040b53d41d01">BCIEssentials.ControllerBehaviors.P300ControllerBehavior</a>, <a class="el" href="../../d5/d8f/classBCIEssentials_1_1ControllerBehaviors_1_1MIControllerBehavior.html#a558db8fe61d582aa27c35626142de8ac">BCIEssentials.ControllerBehaviors.MIControllerBehavior</a>, <a class="el" href="../../d5/d4d/classBCIEssentials_1_1ControllerBehaviors_1_1SSVEPControllerBehavior.html#ab1dbe4e9b03ff09146630a2c106187a3">BCIEssentials.ControllerBehaviors.SSVEPControllerBehavior</a>, <a class="el" href="../../d2/d21/classBCIEssentials_1_1ControllerBehaviors_1_1SwitchControllerBehavior.html#ad75f51e67627adc23a1865123025251a">BCIEssentials.ControllerBehaviors.SwitchControllerBehavior</a>, <a class="el" href="../../db/d63/classBCIEssentials_1_1ControllerBehaviors_1_1TVEPControllerBehavior.html#a85dffb09823f95c19a1b56ff79fdbce2">BCIEssentials.ControllerBehaviors.TVEPControllerBehavior</a>, and <a class="el" href="../../de/d1e/classBCIEssentials_1_1ControllerBehaviors_1_1StimulusPresentationControllerBehavior.html#a92f92073bc4f13ca5b0ea81198a9ad90">BCIEssentials.ControllerBehaviors.StimulusPresentationControllerBehavior</a>.</p>
 
 </div>
 </div>
@@ -589,7 +595,7 @@ BCITrainingType&#160;</td><td class="memItemRight" valign="bottom"><b>CurrentTra
   </dd>
 </dl>
 
-<p>Reimplemented in <a class="el" href="../../d5/d8f/classBCIEssentials_1_1ControllerBehaviors_1_1MIControllerBehavior.html#af7f36759b08d6017aa213cc3454d7ac1">BCIEssentials.ControllerBehaviors.MIControllerBehavior</a>.</p>
+<p>Reimplemented in <a class="el" href="../../d5/d8f/classBCIEssentials_1_1ControllerBehaviors_1_1MIControllerBehavior.html#af7f36759b08d6017aa213cc3454d7ac1">BCIEssentials.ControllerBehaviors.MIControllerBehavior</a>, and <a class="el" href="../../d0/d93/classBCIEssentials_1_1ControllerBehaviors_1_1P300ControllerBehavior.html#ae0cd59cb3a5bd7633a320204e0c6308d">BCIEssentials.ControllerBehaviors.P300ControllerBehavior</a>.</p>
 
 </div>
 </div>
